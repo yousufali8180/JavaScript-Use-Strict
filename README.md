@@ -1,0 +1,1 @@
+# JavaScript-Use-Strict
